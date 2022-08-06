@@ -1,0 +1,23 @@
+// Activate the github pages service first by searching through the settings
+// of the repo
+
+// The first step I did was create a html file to display info
+// created a css file to style the html file
+
+// the files are in the first directory of the repo which are chosen to be display
+// when there is no html or css files the md file will be displayed
+
+// Created a second branch called personal
+// using the " git checkout -b personal " will create the branch called personal and to be connected to master
+// when doing so the command will switch from main to the personal branch
+// pushing the branch to master by using the " git push origin personal "
+// this will enable the personal branch to be displayed within the repo online
+// within the browser or repo online there should be the " compare & pull request " option
+// which means to go overview of the changes which will then merge the changes to the master
+
+// Give github a second to make the changes which will then display the different style of the output
+
+// ----------------------------------------------------------
+// Extra :
+
+making changes
